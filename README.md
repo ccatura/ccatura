@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi! 
 
-I am a Computer Programming graduate for Pellissippi in Knoxville, TN. I am currently privately studying (more) web development in hopes to begin a new career within the coming year.
+I am a Computer Programming graduate from Pellissippi College in Knoxville, TN. I am currently privately studying (more) web development in hopes to begin a new career within the coming year.
 
 At the moment I am building a long awaited portfolio page to showcase  some of my upcoming work. Unfortunately the school's focus was not on providing resources for students to build a portfolio, rather just to learn the basics of programming. So, it is up to me to continue my pursuit of programming, more specifically, web development, and in time I will begin my job search.
 
