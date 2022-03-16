@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi! 
 
-I am a graduate from Pellissippi State Community College with an associates degree in Computer Programming. Courses completed include Programming in Java I & II, Internet Software Development using JavaScript, jQuery, PHP, Bootstrap, HTML, CSS, and Less. Also, Advanced Database and Programming, Data Management Systems, Systems Analysis and Design, and Applied Systems Development.
+<div>I am a graduate</div> from Pellissippi State Community College with an associates degree in Computer Programming. Courses completed include Programming in Java I & II, Internet Software Development using JavaScript, jQuery, PHP, Bootstrap, HTML, CSS, and Less. Also, Advanced Database and Programming, Data Management Systems, Systems Analysis and Design, and Applied Systems Development.
 
 I currently have 15+ years experience as a Senior Photographer at Jewelry Television in the in-house jewelry and gemstone photography department. I am also a former Senior Mechanical Production Artist at Publishers Clearing House in New York with over 20 years of professional Adobe Photoshop experience. I am a dedicated, hard working employee, as well as a problem solver. Currently, I am pursuing a different career path, one that aims toward a new career in Technology. More specifically, Web Development. Here’s what I can bring to your table, I am the kind of employee that excels at his job once settled in. The following are three examples of this:
 
