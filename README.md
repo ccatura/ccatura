@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi! 
+<h1>Hi!</h1> 
 
 <p>I am a graduate from Pellissippi State Community College with an associates degree in Computer Programming. Courses completed include Programming in Java I & II, Internet Software Development using JavaScript, jQuery, PHP, Bootstrap, HTML, CSS, and Less. Also, Advanced Database and Programming, Data Management Systems, Systems Analysis and Design, and Applied Systems Development.</p>
 
